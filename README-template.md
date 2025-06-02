@@ -60,8 +60,3 @@ I still need more javascript knowledge
 - Website - [Ogunniranye Yesirat](https://country-api-rouge.vercel.app/)
 - Frontend Mentor - [@yessybeddings](https://www.frontendmentor.io/profile/yessybeddings)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-
-
-## Acknowledgments
-Thanks to my friend samuel 
